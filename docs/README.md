@@ -1,6 +1,6 @@
 # 使用说明
 
-这里是 ExamDrill 3.3 的说明目录。内容依据 [Release 3.3](https://github.com/ZHAOYAWHY/ExamDrill/releases/tag/3.3) 的 `V3.3.html`，与 [Wiki](https://github.com/ZHAOYAWHY/ExamDrill/wiki) 相同。
+这里是 ExamDrill 3.3 的说明目录。内容依据 [Release 3.3](https://github.com/ZHAOYAWHY/ExamDrill/releases/tag/3.3) 的 `V3.3.html`。
 
 | 文档 | 什么时候看 |
 | --- | --- |

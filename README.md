@@ -4,7 +4,7 @@
 
 **当前版本 3.3。** 下面的说明依据 [Release 3.3](https://github.com/ZHAOYAWHY/ExamDrill/releases/tag/3.3) 里的 `V3.3.html`，不是更早的 2.1.8。
 
-[下载 V3.3.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.3/V3.3.html) · [全部版本](https://github.com/ZHAOYAWHY/ExamDrill/releases) · [使用说明](docs/) · [Wiki](https://github.com/ZHAOYAWHY/ExamDrill/wiki)
+[下载 V3.3.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.3/V3.3.html) · [全部版本](https://github.com/ZHAOYAWHY/ExamDrill/releases) · [使用说明](docs/)
 
 可运行文件在 Releases 里。这个仓库只放说明、许可证和 Issue 模板，没有需要编译的源码工程。
 
@@ -63,8 +63,6 @@
 | [数据与同步](docs/数据与同步.md) | 本地存储、同步字符串、删除题库时会清掉什么 |
 | [版本说明](docs/版本说明.md) | 2.1.8 与 3.3 |
 | [常见问题](docs/常见问题.md) | 打不开、解析失败、记录丢了、判分和预期不一致 |
-
-同一套说明也在 [Wiki](https://github.com/ZHAOYAWHY/ExamDrill/wiki)。
 
 ## 反馈
 
