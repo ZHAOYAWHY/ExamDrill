@@ -2,9 +2,9 @@
 
 单文件、离线的客观题备考练习系统。下载一个 HTML，用浏览器打开，导入 Excel 题库即可开始。不安装、不注册、不联网。
 
-**当前版本 3.3。** 下面的说明依据 [Release 3.3](https://github.com/ZHAOYAWHY/ExamDrill/releases/tag/3.3) 里的 `V3.3.html`，不是更早的 2.1.8。
+**当前版本 3.4。** 下面的说明依据 [Release 3.4](https://github.com/ZHAOYAWHY/ExamDrill/releases/tag/3.4) 里的 `V3.4.html`，不是更早的 3.3 或 2.1.8。
 
-[下载 V3.3.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.3/V3.3.html) · [全部版本](https://github.com/ZHAOYAWHY/ExamDrill/releases) · [使用说明](docs/)
+[下载 V3.4.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.4/V3.4.html) · [全部版本](https://github.com/ZHAOYAWHY/ExamDrill/releases) · [使用说明](docs/)
 
 可运行文件在 Releases 里。这个仓库只放说明、许可证和 Issue 模板，没有需要编译的源码工程。
 
@@ -25,7 +25,7 @@
 
 ## 怎么开始
 
-1. 下载 [V3.3.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.3/V3.3.html)（约 1 MB）。Excel 解析已经打进这个文件，打开后不必再加载外部脚本。
+1. 下载 [V3.4.html](https://github.com/ZHAOYAWHY/ExamDrill/releases/download/3.4/V3.4.html)（约 1 MB）。Excel 解析已经打进这个文件，打开后不必再加载外部脚本。
 2. 用系统浏览器直接打开。Chrome、Edge、Firefox、Safari 都可以。不要把文件拖进会把 HTML 当纯文本的编辑器。
 3. 准备一份模板二的 `.xlsx` 或 `.xls`，拖进上传区，或点击上传区选择文件。
 4. 进入功能选择，再选考试、练习、背题或搜题。
@@ -36,7 +36,12 @@
 
 ## 这一版的行为
 
-这些是 3.3 相对仓库里上一版 2.1.8 的变化，以及 3.3 自己修过的点：
+3.4 相对 3.3：
+
+- 选项按钮的标题和说明改为上下分行，不再挤在同一行。
+- 「未练题目」和「未练随机」显示当前范围内还没练过的题数。范围随题目来源、已选题库和题型变化。
+
+这些是 3.3 相对仓库里上一版 2.1.8 的变化，3.4 仍然如此：
 
 - Excel 解析内嵌，完全离线。
 - 三套视觉主题：清新简洁、活力多彩、拟物卡片。每套都有亮色和暗色，默认暗色。选择会记在本机。
@@ -61,12 +66,12 @@
 | [题库格式](docs/题库格式.md) | 模板二的列、表头识别、判断题和多选题写法 |
 | [功能说明](docs/功能说明.md) | 六个模式的选项、判分和离开提示 |
 | [数据与同步](docs/数据与同步.md) | 本地存储、同步字符串、删除题库时会清掉什么 |
-| [版本说明](docs/版本说明.md) | 2.1.8 与 3.3 |
+| [版本说明](docs/版本说明.md) | 2.1.8、3.3 与 3.4 |
 | [常见问题](docs/常见问题.md) | 打不开、解析失败、记录丢了、判分和预期不一致 |
 
 ## 反馈
 
-使用问题和题库解析问题请开 [Issue](https://github.com/ZHAOYAWHY/ExamDrill/issues)。反馈时写上用的是不是 `V3.3.html`、浏览器名称，以及表头那一行。不必贴整份题库。
+使用问题和题库解析问题请开 [Issue](https://github.com/ZHAOYAWHY/ExamDrill/issues)。反馈时写上用的是不是 `V3.4.html`、浏览器名称，以及表头那一行。不必贴整份题库。
 
 ## 许可
 
